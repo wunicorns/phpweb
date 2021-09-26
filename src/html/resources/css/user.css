@@ -4,12 +4,11 @@ body {
 }
 
 body {
-  display: flex;
   align-items: center;
-  padding-top: 40px;
-  padding-bottom: 40px;
-  background-color: #f5f5f5;
+  padding-bottom: 40px;  
 }
+
+.site_name { font-family: fantasy; }
 
 .form-signin {
   width: 100%;
@@ -38,6 +37,6 @@ body {
   border-top-right-radius: 0;
 }
 
-.container {
+/* .container {
     max-width: 960px;
-}
+} */

@@ -1,11 +1,9 @@
-<!-- CONTENT -->
+<div class="container">
 <section>
 
 	<h1>About this page</h1>
 
 	<p>
-
-
 
 	</p>
 
@@ -22,11 +20,9 @@
 			Learn
 		</h2>
 
-		<p>The User Guide contains an introduction, tutorial, a number of "how to"
-			guides, and then reference documentation for the components that make up
-			the framework. Check the <a href="https://codeigniter4.github.io/userguide"
-			target="_blank">User Guide</a> !</p>
+		<p> </p>
 
 	</section>
 
+</div>
 </div>
